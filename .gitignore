@@ -5,3 +5,5 @@ scan.bat
 .venv
 .scannerwork
 coverage.xml
+htmlcov/
+.coverage
